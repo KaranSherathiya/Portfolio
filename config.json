@@ -1,0 +1,52 @@
+{
+  "ascii": [
+"██╗  ██╗ █████╗ ██████╗  █████╗ ███╗   ██╗    ███████╗██╗  ██╗███████╗██████╗  █████╗ ████████╗██╗  ██╗██╗██╗   ██╗ █████╗ ",
+"██║ ██╔╝██╔══██╗██╔══██╗██╔══██╗████╗  ██║    ██╔════╝██║  ██║██╔════╝██╔══██╗██╔══██╗╚══██╔══╝██║  ██║██║╚██╗ ██╔╝██╔══██╗",
+"█████╔╝ ███████║██████╔╝███████║██╔██╗ ██║    ███████╗███████║█████╗  ██████╔╝███████║   ██║   ███████║██║ ╚████╔╝ ███████║",
+"██╔═██╗ ██╔══██║██╔══██╗██╔══██║██║╚██╗██║    ╚════██║██╔══██║██╔══╝  ██╔══██╗██╔══██║   ██║   ██╔══██║██║  ╚██╔╝  ██╔══██║",
+"██║  ██╗██║  ██║██║  ██║██║  ██║██║ ╚████║    ███████║██║  ██║███████╗██║  ██║██║  ██║   ██║   ██║  ██║██║   ██║   ██║  ██║",
+"╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝    ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝"
+
+  ],
+  "title": "HAL 9000",
+  "username": "User",
+  "hostname": "Myshell",
+  "password": "HAL9000",
+  "repoLink": "https://github.com/KaranSherathiya/Portfolio",
+  "social": {
+    "email": "sherathiyakaran@gmail.com",
+    "github": "KaranSherathiya",
+    "linkedin": "karan-sherathiya-0353452a2"
+  },
+  "aboutGreeting": "Welcome to My Portfolio Shell. State your purpose. Reach out.",
+  "projects": [
+    [
+      "ABC",
+      "XYZ",
+      "https://github.com/KaranSherathiya"
+    ]
+   ],
+  "colors": {
+    "background": "#0C0623",
+    "foreground": "#F8DDE5",
+    "banner": "#FF9951",
+    "border": {
+      "visible": true,
+      "color": "#FFADE2"
+    },
+    "prompt": {
+      "default": "#A5A7A7",
+      "user": "#FE6BC9",
+      "host": "#70FDFF",
+      "input": "#FF7685"
+    },
+    "link": {
+      "text": "#B6AAEE",
+      "highlightColor": "#FFADE2",
+      "highlightText": "#0C0623"
+    },
+    "commands": {
+      "textColor": "#FD9BDB"
+    }
+  }
+}
