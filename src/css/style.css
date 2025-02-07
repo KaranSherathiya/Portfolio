@@ -138,20 +138,25 @@ a:hover {
   margin-top: 3px;
 }
 
-
 #bar-5 {
   height: 1px;
   background-color: var(--border);
   margin-top: 4px;
 }
 
+#terminal-container {
+  overflow-x: auto; /* Enable horizontal scrolling */
+  white-space: nowrap; /* Prevent text wrapping */
+}
+
 #terminal {
   margin-left: 20px;
+  display: inline-block; /* Ensure it doesn't take full width */
 }
 
 #input-line {
   margin-left: 20px;
-  overflow-x: hidden;
+  display: inline-block; /* Ensure it doesn't take full width */
   width: 100%;
 }
 
@@ -200,15 +205,10 @@ a:hover {
   }
 
   #terminal {
-    margin-left: 20px;
-    overflow-x: auto; /* Add this line to enable horizontal scrolling */
-    white-space: pre; /* Add this line to prevent text wrapping */
+    margin-left: 8px;
   }
 
   #input-line {
-    margin-left: 20px;
-  overflow-x: auto; /* Add this line to enable horizontal scrolling */
-  width: 100%;
-  white-space: pre; /* Add this line to prevent text wrapping */
+    margin-left: 8px;
   }
 }
