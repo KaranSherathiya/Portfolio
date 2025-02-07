@@ -155,6 +155,11 @@ a:hover {
   display: inline-block; /* Ensure it doesn't take full width */
 }
 
+#terminal-container::-webkit-scrollbar,
+#input-line-container::-webkit-scrollbar {
+  display: none;
+}
+
 #input-line-container {
   overflow-x: auto; /* Enable horizontal scrolling */
   white-space: nowrap; /* Prevent text wrapping */
