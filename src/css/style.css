@@ -173,6 +173,7 @@ a:hover {
 
 #prompt {
   text-decoration: none; /* Add this line to remove underline from prompt */
+  border-bottom: none;
 }
 
 .command {
