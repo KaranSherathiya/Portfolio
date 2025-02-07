@@ -90,7 +90,7 @@ input {
   font-size: 16px;
   color: #FF7685;
   caret-color: var(--prompt-default);
-  width: 50%;
+  width: calc(100% - 160px); /* Adjust width to fit within the container */
 }
 
 a {
@@ -152,6 +152,11 @@ a:hover {
 #terminal {
   margin-left: 20px;
   display: inline-block; /* Ensure it doesn't take full width */
+}
+
+#input-line-container {
+  overflow-x: auto; /* Enable horizontal scrolling */
+  white-space: nowrap; /* Prevent text wrapping */
 }
 
 #input-line {
