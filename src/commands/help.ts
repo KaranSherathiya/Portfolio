@@ -6,7 +6,7 @@ const helpObj = {
     ],
     [
       "'projects'",
-      "I hope something piques your interest."
+      "I hope something kindle your interest."
     ],
     [
       "'whoami'",
