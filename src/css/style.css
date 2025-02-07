@@ -166,6 +166,10 @@ a:hover {
   width: 100%;
 }
 
+#prompt {
+  text-decoration: none; /* Add this line to remove underline from prompt */
+}
+
 .command {
   text-shadow:
     0 0 7px #fff,
