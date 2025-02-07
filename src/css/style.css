@@ -93,6 +93,11 @@ input {
   width: calc(100% - 160px); /* Adjust width to fit within the container */
 }
 
+#input-hidden {
+  position: relative;
+  display: flex;
+}
+
 a {
   color: #B6AAEE;
 }
@@ -174,6 +179,8 @@ a:hover {
 #prompt {
   text-decoration: none; /* Add this line to remove underline from prompt */
   border-bottom: none;
+  flex: 0 0 auto;  /* Prevents the prompt from shrinking */
+  white-space: nowrap;  /* Keeps prompt text together */
 }
 
 .command {
@@ -201,6 +208,10 @@ a:hover {
 
   input {
     font-size: 10px;
+  }
+
+  #user-input {
+  flex: 1;  /* Allows input to take remaining space */
   }
 
   p {
