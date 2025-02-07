@@ -202,13 +202,13 @@ a:hover {
   #terminal {
     margin-left: 20px;
     overflow-x: auto; /* Add this line to enable horizontal scrolling */
-    white-space: nowrap; /* Add this line to prevent text wrapping */
+    white-space: pre; /* Add this line to prevent text wrapping */
   }
 
   #input-line {
     margin-left: 20px;
   overflow-x: auto; /* Add this line to enable horizontal scrolling */
   width: 100%;
-  white-space: nowrap; /* Add this line to prevent text wrapping */
+  white-space: pre; /* Add this line to prevent text wrapping */
   }
 }
