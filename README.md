@@ -1,1 +1,1 @@
-Credits to [Sidshell](https://github.com/One-eyed-warrior/portfolio) 
+Welcome to [My portfolio](https://portfolio-karansherathiyas-projects.vercel.app) 
