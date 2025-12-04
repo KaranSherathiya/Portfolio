@@ -19,10 +19,10 @@
     "linkedin": "karan-sherathiya"
   },
   "aboutGreeting": "Welcome to My Portfolio Shell. State your purpose. Reach out.",
-  "projects": [
+   "projects": [
     [
       "ABC",
-      "xyz",
+      "XYZ",
       "https://github.com/KaranSherathiya"
     ]
   ],
