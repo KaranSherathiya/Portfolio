@@ -5,7 +5,7 @@ const whoamiObj = {
       "I like working on NLP and ML/Deep Learning models",
       "Can talk for hours about Global market and working of Finance world ",
       "",
-      "Currently researching about Blockchain ",
+      "Currently researching on Multi Agent systems behaviour ",
       "",
     ]
   ]
