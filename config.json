@@ -21,9 +21,9 @@
   "aboutGreeting": "Welcome to My Portfolio Shell. State your purpose. Reach out.",
    "projects": [
     [
-      "ABC",
-      "XYZ",
-      "https://github.com/KaranSherathiya"
+      "Visual Intelligence System – Sketch-to-Image ",
+      "(Computer Vision, Generative AI)",
+      "https://github.com/KaranSherathiya/Sketch-to-image-model"
     ]
   ],
   "colors": {
