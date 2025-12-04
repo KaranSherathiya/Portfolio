@@ -21,8 +21,8 @@
   "aboutGreeting": "Welcome to My Portfolio Shell. State your purpose. Reach out.",
   "projects": [
     [
-      "Sketch to Image Model",
-      "Financial Insights Assistant",
+      "Sketch-to-ImageModel",
+      "Financial-Insights-Assistant",
       "https://github.com/KaranSherathiya"
     ]
   ],
