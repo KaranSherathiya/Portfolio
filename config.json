@@ -21,8 +21,8 @@
   "aboutGreeting": "Welcome to My Portfolio Shell. State your purpose. Reach out.",
   "projects": [
     [
-      "ABC",
-      "XYZ",
+      "Visual Intelligence System – Sketch-to-Image (Computer Vision, Generative AI)",
+      "Financial Insights Assistant (LLMs, Data Analytics, NLP)",
       "https://github.com/KaranSherathiya"
     ]
   ],
