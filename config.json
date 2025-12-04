@@ -20,12 +20,18 @@
   },
   "aboutGreeting": "Welcome to My Portfolio Shell. State your purpose. Reach out.",
    "projects": [
-    [
-      "Visual Intelligence System – Sketch-to-Image ",
-      "(Computer Vision, Generative AI)",
-      "https://github.com/KaranSherathiya/Sketch-to-image-model"
-    ]
+  [
+    "Visual Intelligence System – Sketch-to-Image ",
+    "● (Computer Vision, Generative AI)",
+    "https://github.com/KaranSherathiya/Sketch-to-image-model"
   ],
+  [
+    "Financial Insights Assistant ",
+    "● (LLMs, Data Analytics, NLP)",
+    "https://github.com/KaranSherathiya/Financial-Insights"
+  ]
+]
+
   "colors": {
     "background": "#0C0623",
     "foreground": "#F8DDE5",
