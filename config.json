@@ -1,4 +1,4 @@
-{
+ {
   "ascii": [
 "██╗  ██╗ █████╗ ██████╗  █████╗ ███╗   ██╗    ███████╗██╗  ██╗███████╗██████╗  █████╗ ████████╗██╗  ██╗██╗██╗   ██╗ █████╗ ",
 "██║ ██╔╝██╔══██╗██╔══██╗██╔══██╗████╗  ██║    ██╔════╝██║  ██║██╔════╝██╔══██╗██╔══██╗╚══██╔══╝██║  ██║██║╚██╗ ██╔╝██╔══██╗",
@@ -21,8 +21,8 @@
   "aboutGreeting": "Welcome to My Portfolio Shell. State your purpose. Reach out.",
   "projects": [
     [
-      "Visual Intelligence System – Sketch-to-Image (Computer Vision, Generative AI)",
-      "Financial Insights Assistant (LLMs, Data Analytics, NLP)",
+      "Sketch to Image Model",
+      "Financial Insights Assistant",
       "https://github.com/KaranSherathiya"
     ]
   ],
