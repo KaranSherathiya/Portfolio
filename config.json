@@ -20,7 +20,7 @@
   },
   "aboutGreeting": "Welcome to My Portfolio Shell.
   Computer Engineering graduate with hands-on experience developing AI-based projects using Python, SQL, LLMs, and AWS. Skilled in data preprocessing, automating workflows, and creating NLP applications. Developed working prototypes like sketch-to-image visualization and financial insight automation. Focused on providing clean, functional solutions with modern LLM frameworks and Python development."
-  State your purpose. Reach out.,
+  State your purpose. Reach out.",
   "projects": [
     [
       "Visual Intelligence System – Sketch-to-Image model (Computer Vision, Generative AI) ",
